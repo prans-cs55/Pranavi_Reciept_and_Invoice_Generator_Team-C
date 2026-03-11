@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Receipt Digitizer
 
 AI-powered receipt & invoice digitization with OCR, structured data extraction via Gemini LLM, and an interactive analytics dashboard.
@@ -136,4 +136,4 @@ reciept/
 MIT
 =======
 # Pranavi_Reciept_and_Invoice_Generator_Team-C
->>>>>>> 89004927e29aed658428fa5257a8e961be98efb3
+
